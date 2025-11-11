@@ -15,6 +15,20 @@ I am a passionate Software Engineer specializing in Python, AI/machine learning 
 
 ## 🚀 Projects
 Some of my notable projects include:
+
+LegalLens - AI Contract Review Assistant
+08/09/2025 – 10/11/2025
+
+LegalLens Project: Led end-to-end development of an AI contract review assistant for a law firm.
+
+    Designed and implemented a full-stack AI application to automate the initial review of M&A due diligence contracts cutting manual review time by an estimated 70%.
+    Engineered a multi-stage LLM pipeline using Python, FastAPI, LangChain, and Pydantic to reliably extract and classify legal clauses from complex PDFs and Word documents.
+    Integrated Anthropic's Claude-2 for its large context window to process entire contracts, ensuring critical cross-document context was preserved.
+    Implemented a structured output parsing strategy to force LLM responses into a validated schema, achieving high reliability and enabling seamless data integration into the frontend.
+    Built a custom "Red Flag" analysis feature that compared extracted clauses against firm-standard language,providing lawyers with actionable, bullet-point risk reports.
+    Deployed the final Streamlit web application on a cloud VM, incorporating caching (Redis) and robust error handling for a production-ready user experience
+
+
 - Flood Inundation Mapping: Utilized Synthetic Aperture Radar (SAR) imagery and Google Earth Engine to develop a flood inundation mapping project, providing actionable insights into flood-prone areas and supporting effective mitigation strategies
 - Pest Detection in Cotton Crops
 Developed an AI-powered model to detect pest infestations in cotton crops by leveraging UAV
