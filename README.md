@@ -8,7 +8,7 @@ I am a passionate Software Engineer specializing in Python, AI/machine learning 
 - 📫 Reach me: Muhammadbilal2816@gmail.com 
 
 ## 💻 Tech Stack
-- Languages: Python, JavaScript,  C++, etc.  
+- Languages: Python, JavaScript,Typescript  C++, etc.  
 - Frameworks/Libraries:  Node.js, Django, TensorFlow, Flask etc.  
 - Tools & Platforms: Git, Docker, Kubernetes, AWS, Jenkins, etc.  
 - Databases: MySQL, MongoDB, PostgreSQL, etc.  
